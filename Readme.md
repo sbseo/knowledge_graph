@@ -1,4 +1,4 @@
-# Knowledge Graph Project (by FORWARD Datalab)
+# Knowledge Graph Project (by FORWARD Data Lab)
 ![logo](./logo.png)
 
 ## Description
