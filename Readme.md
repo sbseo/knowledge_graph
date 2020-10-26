@@ -13,6 +13,9 @@ Our goal is to build a knowledge graph so that we find related words using the m
 - spastic => hypertonia, reflex, muscle
 - thrombopoietin => thrombopoiesis, megakaryocyte, platelet
 - colonialism => patriarchy, solidarity, meter
+- mamluk => terracotta, mesopotamia, lustre
+- gene => neofunctionalization, mesophile, pseudogene
+
 
 ## Visualization
 ![plot](./plot.png)
