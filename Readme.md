@@ -3,9 +3,9 @@
 
 ## Description
 
-Here we extract `1.7m` documents from arXiv dataset available in https://www.kaggle.com/Cornell-University/arxiv. Moreover, we use `100,000` keywords to track word frequency and cooccurence within each document.
+Here we extract `1.7m` documents from the arXiv dataset available in https://www.kaggle.com/Cornell-University/arxiv. Moreover, we use `100,000` keywords to track word frequency and co-occurrence within each document.
 
-Our goal is to build a knowledge graph so that we find related words using the metric `pmi`. Additionally, we project cooccurence matrix into 2D plot to visualize the similarity and dissimilarity among words and clusters.
+Our goal is to build a knowledge graph to find related words using the metric `PMI.` Additionally, we project the co-occurrence matrix into a 2D plot to visualize the similarity and dissimilarity among words and clusters.
 
 
 ## Result
@@ -20,4 +20,4 @@ Our goal is to build a knowledge graph so that we find related words using the m
 ## Visualization
 ![plot](./plot.png)
 
-We observe that similar words for a group of cluster
+We observe that similar words form a word cluster.
