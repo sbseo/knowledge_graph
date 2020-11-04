@@ -10,11 +10,11 @@ Our goal is to build a knowledge graph to find related words using the metric `P
 
 ## Result
 - `Query` => related words
-- requirement document => data entity, database design, business process 
-- second language acquisition => second language writing, contrastive analysis, english as second language
-- bernouli distribution => multiple outcome, dynamic decision making, multivariate gaussian model
-- business concept => customer segment, strategic change, research knowledge
-- algorithm => attribute oriented induction, coding algorithm, resource allocation algorithm
+- `requirement document` => data entity, database design, business process 
+- `second language acquisition` => second language writing, contrastive analysis, english as second language
+- `bernouli distribution` => multiple outcome, dynamic decision making, multivariate gaussian model
+- `business concept` => customer segment, strategic change, research knowledge
+- `algorithm` => attribute oriented induction, coding algorithm, resource allocation algorithm
 
 
 ## Visualization
